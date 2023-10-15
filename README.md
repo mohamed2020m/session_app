@@ -2,8 +2,8 @@
 
 <center>
     The session app support the follwoing features: 
-    Create Account, Authentication, password recovery. 
-</center>
+    Create Account, Authentication and password recovery. 
+<center>
 
 
 ## Screenshots
@@ -24,7 +24,7 @@
 
 ![Send Code](./assets/send_code.png)
 
-#### Code Recieved
+#### Recieving code via email
 
 ![Code Recieved](./assets/code_recieved.png)
 
