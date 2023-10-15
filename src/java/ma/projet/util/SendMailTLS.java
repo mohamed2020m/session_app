@@ -22,8 +22,8 @@ import javax.mail.internet.MimeMessage;
 
 public class SendMailTLS {
  
-    static final String username = "your_email";
-    static final String password = "your_password"; 
+    static final String username = "sender_email";
+    static final String password = "sender_password";
  
     public static void send(String s, String recpients) {
         Properties props = new Properties();
