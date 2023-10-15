@@ -23,7 +23,7 @@ import ma.projet.util.Utils;
  */
 @WebServlet(name = "Auth", urlPatterns = {"/auth"})
 public class Auth extends HttpServlet {
-    private Object httpRequest;
+//    private Object httpRequest;
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /**
      * Handles the HTTP <code>GET</code> method.
