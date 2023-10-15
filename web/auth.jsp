@@ -98,7 +98,7 @@
                                     Forgot
                             </span>
                             <a class="txt2" href="/session/forgetPassword">
-                                    Username / Password?
+                                    Password?
                             </a>
                         </div>
 
